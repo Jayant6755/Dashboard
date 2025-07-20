@@ -17,8 +17,8 @@ A responsive dashboard built using **React** and **shadcn/ui** to visualize the 
 Clone the project:
 
 ```bash
-git clone https://github.com/JayantNegi123/shipping-dashboard.git
-cd shipping-dashboard
+git clone https://github.com/JayantNegi6755/Dashboard.git
+cd Dashboard
 npm install
 npm run dev
 
