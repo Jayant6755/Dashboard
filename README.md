@@ -12,6 +12,9 @@ A responsive dashboard built using **React** and **shadcn/ui** to visualize the 
 - Clean and responsive design
 - Fast UI built with shadcn components
 
+  ## Developed By :
+  Jayant Negi
+
 ## Run Locally
 
 Clone the project:
@@ -22,5 +25,5 @@ cd Dashboard
 npm install
 npm run dev
 
-## Contact
-Made by Jayant Negi
+
+
