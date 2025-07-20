@@ -1,0 +1,26 @@
+# Monthly Order Shipping Dashboard
+
+A responsive dashboard built using **React** and **shadcn/ui** to visualize the number of orders shipped each month.
+
+## Tech Stack
+-  React
+-  Shadcn/ui components 
+-  Vite 
+
+## Features
+- Data Box showing orders shipped monthly
+- Clean and responsive design
+- Fast UI built with shadcn components
+
+## Run Locally
+
+Clone the project:
+
+```bash
+git clone https://github.com/JayantNegi123/shipping-dashboard.git
+cd shipping-dashboard
+npm install
+npm run dev
+
+## Contact
+Made by Jayant Negi
